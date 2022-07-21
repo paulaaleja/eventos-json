@@ -1,0 +1,39 @@
+[
+    {
+        "precio": 620.00,
+        "id": 1,
+        "title": "Aziatop",
+        "thumbnailUrl": "https://picsum.photos/id/237/500/300"
+    },
+    {
+        "precio": 799.55,
+        "id": 2,
+        "title": "Actron 400 x 10 comprimidos",
+        "thumbnailUrl": "https://picsum.photos/id/237/500/300"
+        
+    },
+    {
+        "precio": 728.99,
+        "id": 3,
+        "title": "Cetriler x 20 comprimidos",
+        "thumbnailUrl": "https://picsum.photos/id/237/500/300"
+    },
+    {
+        "precio": 500.90,
+        "id": 4,
+        "title": "Tafirol 500 x 30",
+        "thumbnailUrl": "https://picsum.photos/id/237/500/300"
+    },
+    {
+        "precio": 520.00,
+        "id": 5,
+        "title": "Dulcolax grageas x 20",
+        "thumbnailUrl": "https://picsum.photos/id/237/500/300"
+    },
+    {
+        "precio": 980.25,
+        "id": 6,
+        "title": "Coltix colirio gts x 20ml",
+        "thumbnailUrl": "https://picsum.photos/id/237/500/300"
+    }
+]
